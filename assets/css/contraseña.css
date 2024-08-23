@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(/encriptador/assets/img/matrix.png);
+    background-image: url(../img/matrix.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
