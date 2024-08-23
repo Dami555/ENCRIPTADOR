@@ -5,6 +5,6 @@ Nuestra página web está basada en el contexto de que entre amigos y amigas del
 
 Integrantes:
 
-Violeta yajaida Camacho macedo
-Damaris Suley Castillo Cordova
-Danitza Anahi Erazo Salvatierra
+Violeta yajaida Camacho macedo;
+Damaris Suley Castillo Cordova;
+Danitza Anahi Erazo Salvatierra.
